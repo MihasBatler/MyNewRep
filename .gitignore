@@ -4,6 +4,12 @@
 2.2.1. spring_hibernate/spring_hibernate.iml
 /2.2.1. spring_hibernate/spring_hibernate.iml/
 
+*.iml/
+target
+/target/
+/target
+target/
 
 
-
+/2.2.1. spring_hibernate/src/main/resources/
+/2.2.1. spring_hibernate/target/
