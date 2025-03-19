@@ -16,7 +16,4 @@ public interface UserService {
     User getUserByCar(String model, int series);
 }
 
-//Иван, извините, что здесь пишу. У меня никак не получается добавить папки в .gitignore
-//Бился с этим весь день. Пытался добавить target, spring_hibernate.iml, resources.
-//Я перепробовал все способы (вручную, через терминал, в идее), получилось добавить только .idea.
-//Никак не могу понять, что не так
+
